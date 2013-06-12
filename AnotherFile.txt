@@ -1,3 +1,3 @@
 This is the first line - edit on server
-This is the second line - edit on server
+This is the second line - edit local
 This is the third line - edit local
